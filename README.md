@@ -154,7 +154,7 @@ HeartDiseasePrediction/
 
 ## 👨‍💻 Collaborators
 **Goh Yi Cheng**  
-**Toh Yong Cheng**
+**Toh Yong Cheng**  
 **Anson Yong Wei Sheng**
 
 ## 📄 License
